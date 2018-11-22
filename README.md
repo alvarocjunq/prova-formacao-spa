@@ -2,7 +2,8 @@
 
 Construa a seguinte tela:
 
-![SWAPI](PROVA-FORMACAO-SPA?raw=true)
+![SWAPI](PROVA-FORMACAO-SPA.png)
+![SWAPI](https://raw.githubusercontent.com/alvarocjunq/prova-formacao-spa/master/PROVA-FORMACAO-SPA.png)
 
 Para obter os dados, efetuar requisições para as APIs do Star Wars:
 [Star Wars API](https://swapi.co/documentation)
