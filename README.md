@@ -1,6 +1,6 @@
 # Prova de Formação SPA
 
-### 1) Construas os seguintes componentes:
+### 1) Construa os seguintes componentes:
 
 ![SWAPI](PROVA-FORMACAO-SPA.png)
 
